@@ -1,5 +1,5 @@
 ---
-# PA Classes & Operating Modes — Detailed but Clean
+# PA Classes & Operating Modes
 
 ## 1. Class AB — Inside View
 
